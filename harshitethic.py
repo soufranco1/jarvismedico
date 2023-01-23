@@ -66,8 +66,8 @@ def start(bot, update):
         chat_log = None
         cache = None
         qcache = None
-        botname = 'Jarvismedico Franco'
-        username = 'jarvismedico_bot'
+        botname = 'Harshit ethic'
+        username = 'harshitethic_bot'
         update.message.reply_text('Hi')
         return 
     else:
@@ -93,16 +93,16 @@ def reset(bot, update):
         chat_log = None
         cache = None
         qcache = None
-        botname = 'Jarvismedico Franco'
-        username = 'jarvismedico_bot'
+        botname = 'Harshit ethic'
+        username = 'harshitethic_bot'
         update.message.reply_text('Bot has been reset, send a message!')
         return
     if tim == 1:
         chat_log = None
         cache = None
         qcache = None
-        botname = 'Jarvismedico Franco'
-        username = 'jarvismedico_bot'
+        botname = 'Harshit ethic'
+        username = 'harshitethic_bot'
         update.message.reply_text('Bot has been reset, send a message!')
         return 
     else:
@@ -128,8 +128,8 @@ def retry(bot, update):
         chat_log = None
         cache = None
         qcache = None
-        botname = 'Jarvismedico Franco'
-        username = 'jarvismedico_bot'
+        botname = 'Harshit ethic'
+        username = 'harshitethic_bot'
         update.message.reply_text('Send a message!')
         return 
     else:
@@ -189,8 +189,8 @@ def wait(bot, update, botname, username, new):
                 cache = None
                 qcache = None
                 user = ""
-                username = 'jarvismedico_bot'
-                botname = 'Jarvismedico Franco'
+                username = 'harshitethic_bot'
+                botname = 'Harshit ethic'
                 update.message.reply_text('Timer has run down, bot has been reset to defaults.')
                 running = False
     else:
